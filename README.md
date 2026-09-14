@@ -5,7 +5,7 @@ We are group 03
 #powertothepeople
 
 This is the folder structure - 
-
+```text
 Generative_AI_Research_<SID>/
 │
 ├── literature/
@@ -39,3 +39,4 @@ Generative_AI_Research_<SID>/
 │
 ├── project_logbook.txt
 └── README.md
+```
